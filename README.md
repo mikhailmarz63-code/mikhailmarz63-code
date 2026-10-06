@@ -1,6 +1,6 @@
 # Hi, I'm Mikhail 👋
 
-**Graduate AI Solutions Engineer** in Colombo, Sri Lanka. I take a business problem, work out what the people involved actually need, and build the AI tool that fixes it.
+**Graduate AI Solutions Analyst** in Colombo, Sri Lanka. I take a business problem, work out what the people involved actually need, and build the AI tool that fixes it.
 
 * 🎓 Management Information Systems graduate (August 2026)
 * 🏭 Built inventory, costing and document tools that staff at a logistics company used every day
